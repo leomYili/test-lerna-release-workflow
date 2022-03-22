@@ -7,8 +7,5 @@
     "prepublish": "yarn build",
     "build": "echo \"Build me!\"",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "@leomyili/package-a": "^0.1.1"
   }
 }
