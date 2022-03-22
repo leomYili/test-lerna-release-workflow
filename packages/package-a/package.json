@@ -1,13 +1,8 @@
 {
-  "name": "@jonwa/package-a",
+  "name": "@lemoyili/package-a",
   "version": "0.1.1",
   "main": "index.js",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:jonwa/lerna-release-workflow.git",
-    "directory": "packages/package-a"
-  },
   "scripts": {
     "prepublish": "yarn build",
     "build": "echo \"Build me!\"",
